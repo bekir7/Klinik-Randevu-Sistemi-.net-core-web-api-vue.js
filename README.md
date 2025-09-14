@@ -241,16 +241,13 @@ API testi için: `http://localhost:5208`
 
 Bu proje MIT lisansı altında lisanslanmıştır.
 
-## 👥 Geliştirici
+## Ekran Görüntüsü
 
-**Merkez Klinik Randevu Sistemi** - Modern sağlık hizmetleri için tasarlanmıştır.
-
-## 📞 İletişim
-
-- **E-posta**: info@merkezklinik.com
-- **Telefon**: +90 212 555 0101
-- **Adres**: Merkez Mahallesi, Sağlık Caddesi No:1
-
----
-
-⭐ **Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+<img width="1920" height="1080" alt="Ekran Görüntüsü (457)" src="https://github.com/user-attachments/assets/1125fdc8-18ce-4898-b080-1761c188caac" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (456)" src="https://github.com/user-attachments/assets/5018bf5a-e572-4602-8140-0801d3b89978" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (463)" src="https://github.com/user-attachments/assets/574e5f05-3cbf-4a2d-b9e2-6240f4227fcd" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (462)" src="https://github.com/user-attachments/assets/86373172-2cbc-4c96-bdd1-4313eeeba3bd" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (461)" src="https://github.com/user-attachments/assets/ea88af8a-9fae-4307-82de-0413221f303c" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (460)" src="https://github.com/user-attachments/assets/f7bd23e6-fc8d-4b75-a379-4afb3abaeeb3" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (459)" src="https://github.com/user-attachments/assets/9bf7ba17-aa3b-4ae3-b11c-37feacdc298d" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (458)" src="https://github.com/user-attachments/assets/fb6d5c96-d635-4f40-8b96-35be9a18f7fa" />
